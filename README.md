@@ -15,8 +15,8 @@ Copy the following files:
 
 * `ITShadowScrollView.h`
 * `ITShadowScrollView.m`
-* `ITSidebarView.h`
-* `ITSidebarView.m`
+* `ITShadowView.h`
+* `ITShadowView.m`
 
 Make sure to copy them to the project, and to add them to the target.
 
